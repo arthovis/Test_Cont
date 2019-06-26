@@ -1,8 +1,8 @@
 package com.company;
 
 public class Cont {
-    private String titular = "Andrei";
-    private String IBAN = "1231_1234_1234_1444";
+    private String titular;
+    private String IBAN;
     private int balanta;
     private int dobanda;
 
